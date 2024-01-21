@@ -142,6 +142,11 @@ nav .navbar{
     margin: 20px 0 0 50px;
 }
 
+.buttons{
+    position: relative;
+    z-index: 2000;
+}
+
 .content .buttons button{
     color: #fff;
     margin: 0 10px;
